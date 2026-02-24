@@ -1,8 +1,4 @@
 Fernando
 Juan
-<<<<<<< HEAD
-Pepe A
-=======
-Pepe B
->>>>>>> c120c17f623a2303c78390d9b70d80c26ba7eded
+Pepe A y Pepe B
 María y Luis
